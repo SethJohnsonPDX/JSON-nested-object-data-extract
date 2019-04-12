@@ -1,0 +1,1725 @@
+{
+	"unlockSummaries": [{
+		"invite": {
+			"id": "e67f9508-0b10-5495-b394-5cc1a4265df1",
+			"invitationId": "e18ca3b3-0982-4d5a-80ef-6c4a477229ae",
+			"contentId": "3baaa296-173b-47c6-814d-5a235c4c697a",
+			"startDate": "2019-04-05T19:06:59.936Z",
+			"endDate": "2019-05-30T19:11:35.000Z",
+			"items": [{
+				"item": {
+					"type": "PRODUCT",
+					"productId": "9f381910-c20f-5aff-b556-f5697ebc1e21"
+				},
+				"startDate": "2019-04-05T19:06:59.936Z",
+				"endDate": "2019-05-30T19:11:35.000Z"
+			}],
+			"resourceType": "invite",
+			"links": {
+				"self": {
+					"ref": "/engage/invites/v1/e67f9508-0b10-5495-b394-5cc1a4265df1"
+				}
+			}
+		},
+		"coverCard": {
+			"subType": "image",
+			"id": "2b051093-074d-4327-8b8d-2a2cea7f8fee",
+			"type": "card",
+			"version": "1554499739148",
+			"properties": {
+				"portraitId": "p150klcnjjrrssaowcof",
+				"squarishURL": "",
+				"product": [],
+				"landscapeId": "",
+				"altText": "",
+				"portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/p150klcnjjrrssaowcof/20190405-nrc-sc1.jpg",
+				"landscapeURL": "",
+				"portrait": {
+					"aspectRatio": 0.74793,
+					"id": "p150klcnjjrrssaowcof",
+					"type": "editorial",
+					"url": "https://c.static-nike.com/a/images/w_1536,c_limit/p150klcnjjrrssaowcof/20190405-nrc-sc1.jpg"
+				},
+				"squarish": {
+					"id": "",
+					"url": ""
+				},
+				"title": "Testing",
+				"squarishId": "",
+				"richTextLinks": [],
+				"subtitle": "",
+				"colorTheme": "dark",
+				"secondaryPortrait": {
+					"id": ""
+				},
+				"actions": [],
+				"landscape": {
+					"id": "",
+					"url": ""
+				}
+			}
+		},
+		"threadDeepLink": "mynike://x-callback-url/unlocks/v2?offer-id=e67f9508-0b10-5495-b394-5cc1a4265df1&source=max"
+	}, {
+		"invite": {
+			"id": "05537d8a-9b78-5009-b476-ad44aa7fffa3",
+			"invitationId": "6ce692c7-e87f-4183-944b-a8507be0ce51",
+			"contentId": "3981763f-a40d-4a8c-a1ac-e43575b1ee85",
+			"startDate": "2019-04-05T18:28:54.232Z",
+			"endDate": "2019-05-30T18:29:59.000Z",
+			"items": [{
+				"item": {
+					"type": "PRODUCT",
+					"productId": "d62dd3d1-0ded-5289-9a3e-293c83efdf79"
+				},
+				"startDate": "2019-04-05T18:28:54.232Z",
+				"endDate": "2019-05-30T18:29:59.000Z"
+			}],
+			"resourceType": "invite",
+			"links": {
+				"self": {
+					"ref": "/engage/invites/v1/05537d8a-9b78-5009-b476-ad44aa7fffa3"
+				}
+			}
+		},
+		"coverCard": {
+			"subType": "image",
+			"id": "828ea846-9780-4482-a320-d73a8c4df8a7",
+			"type": "card",
+			"version": "1554488817295",
+			"properties": {
+				"portraitId": "p150klcnjjrrssaowcof",
+				"squarishURL": "",
+				"product": [],
+				"landscapeId": "",
+				"altText": "",
+				"portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/p150klcnjjrrssaowcof/20190405-tmptest-2.jpg",
+				"custom": {
+					"offers": {
+						"state": "active"
+					},
+					"localizationStrings": []
+				},
+				"landscapeURL": "",
+				"body": "TMP Test 2",
+				"portrait": {
+					"aspectRatio": 0.74793,
+					"id": "p150klcnjjrrssaowcof",
+					"type": "editorial",
+					"url": "https://c.static-nike.com/a/images/w_1536,c_limit/p150klcnjjrrssaowcof/20190405-tmptest-2.jpg"
+				},
+				"squarish": {
+					"id": "",
+					"url": ""
+				},
+				"title": "",
+				"squarishId": "",
+				"decorators": [],
+				"richTextLinks": [],
+				"subtitle": "",
+				"colorTheme": "light",
+				"secondaryPortrait": {
+					"id": ""
+				},
+				"actions": [],
+				"landscape": {
+					"id": "",
+					"url": ""
+				}
+			}
+		},
+		"threadDeepLink": "mynike://x-callback-url/unlocks/v2?offer-id=05537d8a-9b78-5009-b476-ad44aa7fffa3&source=max"
+	}, {
+		"invite": {
+			"id": "bbb54c0d-5652-5cb8-851f-9b6ab77b4938",
+			"invitationId": "3622a908-b8ed-483f-a632-8e56a65547f1",
+			"contentId": "aeed87a4-b69b-4b07-9a79-aff1165f6c19",
+			"startDate": "2019-04-05T17:28:28.857Z",
+			"endDate": "2019-05-30T17:28:28.000Z",
+			"items": [{
+				"item": {
+					"type": "PRODUCT",
+					"productId": "9f381910-c20f-5aff-b556-f5697ebc1e21"
+				},
+				"startDate": "2019-04-05T17:28:28.857Z",
+				"endDate": "2019-05-30T17:28:28.000Z"
+			}],
+			"resourceType": "invite",
+			"links": {
+				"self": {
+					"ref": "/engage/invites/v1/bbb54c0d-5652-5cb8-851f-9b6ab77b4938"
+				}
+			}
+		},
+		"coverCard": {
+			"subType": "image",
+			"id": "9667beaa-b782-46fc-a507-a9a6e032ebb2",
+			"type": "card",
+			"version": "1554492829749",
+			"properties": {
+				"portraitId": "p150klcnjjrrssaowcof",
+				"squarishURL": "",
+				"product": [],
+				"landscapeId": "",
+				"altText": "",
+				"portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/p150klcnjjrrssaowcof/04-05-19-nrc-sc1.jpg",
+				"landscapeURL": "",
+				"body": "NRC/Nike App Test",
+				"portrait": {
+					"aspectRatio": 0.74793,
+					"id": "p150klcnjjrrssaowcof",
+					"type": "editorial",
+					"url": "https://c.static-nike.com/a/images/w_1536,c_limit/p150klcnjjrrssaowcof/04-05-19-nrc-sc1.jpg"
+				},
+				"squarish": {
+					"id": "",
+					"url": ""
+				},
+				"title": "",
+				"squarishId": "",
+				"richTextLinks": [],
+				"subtitle": "",
+				"colorTheme": "light",
+				"secondaryPortrait": {
+					"id": ""
+				},
+				"actions": [],
+				"landscape": {
+					"id": "",
+					"url": ""
+				}
+			}
+		},
+		"threadDeepLink": "mynike://x-callback-url/unlocks/v2?offer-id=bbb54c0d-5652-5cb8-851f-9b6ab77b4938&source=max"
+	}, {
+		"invite": {
+			"id": "e1c1517a-fa67-519f-8d0e-d205c7e56310",
+			"invitationId": "96bc2e34-f67c-4933-80d7-00f2a6ebc401",
+			"contentId": "d5ca7cf6-1f65-44e7-8fe7-dd4bdce0d044",
+			"startDate": "2019-04-05T17:05:18.439Z",
+			"endDate": "2019-05-30T17:38:30.000Z",
+			"items": [{
+				"item": {
+					"type": "PRODUCT",
+					"productId": "9f381910-c20f-5aff-b556-f5697ebc1e21"
+				},
+				"startDate": "2019-04-05T17:05:18.439Z",
+				"endDate": "2019-05-30T17:38:30.000Z"
+			}],
+			"resourceType": "invite",
+			"links": {
+				"self": {
+					"ref": "/engage/invites/v1/e1c1517a-fa67-519f-8d0e-d205c7e56310"
+				}
+			}
+		},
+		"coverCard": {
+			"subType": "image",
+			"id": "c736c3e4-577e-4b18-9b56-9e5b95947fab",
+			"type": "card",
+			"version": "1554485710596",
+			"properties": {
+				"portraitId": "p150klcnjjrrssaowcof",
+				"squarishURL": "",
+				"product": [],
+				"landscapeId": "",
+				"altText": "",
+				"portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/p150klcnjjrrssaowcof/20190405-tmptest.jpg",
+				"custom": {
+					"offers": {
+						"state": "active"
+					},
+					"localizationStrings": [],
+					"threadImageOverride": "portrait",
+					"feedImageOverride": "portrait"
+				},
+				"landscapeURL": "",
+				"body": "TMP Test",
+				"portrait": {
+					"aspectRatio": 0.74793,
+					"id": "p150klcnjjrrssaowcof",
+					"type": "editorial",
+					"url": "https://c.static-nike.com/a/images/w_1536,c_limit/p150klcnjjrrssaowcof/20190405-tmptest.jpg"
+				},
+				"squarish": {
+					"id": "",
+					"url": ""
+				},
+				"title": "",
+				"preferredOrientation": {
+					"small": "portrait"
+				},
+				"squarishId": "",
+				"decorators": [],
+				"richTextLinks": [],
+				"subtitle": "",
+				"colorTheme": "light",
+				"secondaryPortrait": {
+					"id": ""
+				},
+				"actions": [],
+				"landscape": {
+					"id": "",
+					"url": ""
+				}
+			}
+		},
+		"threadDeepLink": "mynike://x-callback-url/unlocks/v2?offer-id=e1c1517a-fa67-519f-8d0e-d205c7e56310&source=max"
+	}, {
+		"invite": {
+			"id": "f5d35d49-b0cb-5ca7-9527-2527366f5633",
+			"invitationId": "dee9b64a-bf24-41c3-86f6-5d6fd17666be",
+			"contentId": "ab33a072-494b-474d-8d6d-272c097a24f9",
+			"startDate": "2019-04-02T22:49:44.264Z",
+			"endDate": "2019-05-28T22:52:56.000Z",
+			"items": [{
+				"item": {
+					"type": "PRODUCT",
+					"productId": "9f381910-c20f-5aff-b556-f5697ebc1e21"
+				},
+				"startDate": "2019-04-02T22:49:44.264Z",
+				"endDate": "2019-05-28T22:52:56.000Z"
+			}],
+			"resourceType": "invite",
+			"links": {
+				"self": {
+					"ref": "/engage/invites/v1/f5d35d49-b0cb-5ca7-9527-2527366f5633"
+				}
+			}
+		},
+		"coverCard": {
+			"subType": "image",
+			"id": "e23c3446-21d5-4ed5-b818-f49d5186b3c1",
+			"type": "card",
+			"version": "1554245464921",
+			"properties": {
+				"portraitId": "p150klcnjjrrssaowcof",
+				"squarishURL": "",
+				"product": [],
+				"landscapeId": "",
+				"altText": "",
+				"portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/p150klcnjjrrssaowcof/20190402-nrc-test.jpg",
+				"custom": {
+					"offers": {
+						"state": "active"
+					},
+					"localizationStrings": [{
+						"value": "Reserved until",
+						"key": "countdown_image_expire_day"
+					}, {
+						"value": "MM.dd",
+						"key": "countdown_image_expire_day_format"
+					}, {
+						"value": "Reserved today until",
+						"key": "countdown_image_expire_hour"
+					}, {
+						"value": "ha",
+						"key": "countdown_image_expire_hour_format"
+					}, {
+						"value": "Reserved for the next",
+						"key": "countdown_image_expire_minute"
+					}, {
+						"value": "mm:ss",
+						"key": "countdown_image_expire_minute_format"
+					}]
+				},
+				"landscapeURL": "",
+				"body": "Test",
+				"portrait": {
+					"aspectRatio": 0.74793,
+					"id": "p150klcnjjrrssaowcof",
+					"type": "editorial",
+					"url": "https://c.static-nike.com/a/images/w_1536,c_limit/p150klcnjjrrssaowcof/20190402-nrc-test.jpg"
+				},
+				"squarish": {
+					"id": "",
+					"url": ""
+				},
+				"title": "Acxtive",
+				"squarishId": "",
+				"decorators": [{
+					"type": "countdown"
+				}],
+				"richTextLinks": [],
+				"subtitle": "",
+				"colorTheme": "dark",
+				"secondaryPortrait": {
+					"id": ""
+				},
+				"actions": [],
+				"landscape": {
+					"id": "",
+					"url": ""
+				}
+			}
+		},
+		"threadDeepLink": "mynike://x-callback-url/unlocks/v2?offer-id=f5d35d49-b0cb-5ca7-9527-2527366f5633&source=max"
+	}, {
+		"invite": {
+			"id": "dc94c75e-ab2c-54ef-ae46-77c9fd7e0332",
+			"invitationId": "21306d77-9cbd-4251-84fd-a79b4949e6f1",
+			"contentId": "1a40bd4b-cb78-43e1-85e7-dde84ad2f6d5",
+			"startDate": "2019-04-01T21:20:56.353Z",
+			"endDate": "2019-05-29T21:36:39.000Z",
+			"items": [{
+				"item": {
+					"type": "PRODUCT",
+					"productId": "9f381910-c20f-5aff-b556-f5697ebc1e21"
+				},
+				"startDate": "2019-04-01T21:20:56.353Z",
+				"endDate": "2019-05-29T21:36:39.000Z"
+			}],
+			"resourceType": "invite",
+			"links": {
+				"self": {
+					"ref": "/engage/invites/v1/dc94c75e-ab2c-54ef-ae46-77c9fd7e0332"
+				}
+			}
+		},
+		"coverCard": {
+			"subType": "image",
+			"id": "406f4f52-2623-4050-823c-3e4010182d52",
+			"type": "card",
+			"version": "1554154293095",
+			"properties": {
+				"portraitId": "gzths8lcpkhxmckdjab3",
+				"squarishURL": "",
+				"product": [],
+				"landscapeId": "",
+				"altText": "",
+				"portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/gzths8lcpkhxmckdjab3/20190401-rfy-enablement-nrc.jpg",
+				"custom": {
+					"offers": {
+						"state": "active"
+					},
+					"localizationStrings": [],
+					"threadImageOverride": "portrait",
+					"feedImageOverride": "portrait"
+				},
+				"landscapeURL": "",
+				"body": "NRC Test",
+				"portrait": {
+					"aspectRatio": 0.74793,
+					"id": "gzths8lcpkhxmckdjab3",
+					"type": "editorial",
+					"url": "https://c.static-nike.com/a/images/w_1536,c_limit/gzths8lcpkhxmckdjab3/20190401-rfy-enablement-nrc.jpg"
+				},
+				"squarish": {
+					"id": "",
+					"url": ""
+				},
+				"title": "",
+				"preferredOrientation": {
+					"small": "portrait"
+				},
+				"squarishId": "",
+				"decorators": [],
+				"richTextLinks": [],
+				"subtitle": "",
+				"colorTheme": "dark",
+				"secondaryPortrait": {
+					"id": ""
+				},
+				"actions": [],
+				"landscape": {
+					"id": "",
+					"url": ""
+				}
+			}
+		},
+		"threadDeepLink": "mynike://x-callback-url/unlocks/v2?offer-id=dc94c75e-ab2c-54ef-ae46-77c9fd7e0332&source=max"
+	}, {
+		"invite": {
+			"id": "dfbb93a7-9b4b-557d-be71-3e0998430f12",
+			"invitationId": "a44a7d37-dbc9-4989-8470-205178d976c1",
+			"contentId": "5debbfd9-d3c0-44bc-8311-c59e8e3c20cf",
+			"startDate": "2019-03-29T22:06:46.568Z",
+			"endDate": "2019-04-26T22:06:46.000Z",
+			"items": [{
+				"item": {
+					"type": "PROMO",
+					"promoId": "2b8b6462-3a2d-48d9-8792-7de5da00be54",
+					"promoCode": "MTEST0000006",
+					"promoType": "MULTI_CODE",
+					"description": "unique"
+				},
+				"startDate": "2019-03-29T22:06:46.568Z",
+				"endDate": "2019-04-26T22:06:46.000Z"
+			}],
+			"resourceType": "invite",
+			"links": {
+				"self": {
+					"ref": "/engage/invites/v1/dfbb93a7-9b4b-557d-be71-3e0998430f12"
+				}
+			}
+		},
+		"coverCard": {
+			"subType": "image",
+			"id": "0894ab4d-792c-4af8-be68-f1410752052a",
+			"type": "card",
+			"version": "1553897119098",
+			"properties": {
+				"portraitId": "kuocryoutwcyt9rifmei",
+				"squarishURL": "",
+				"product": [],
+				"landscapeId": "",
+				"altText": "",
+				"portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/kuocryoutwcyt9rifmei/20190329-allapps-unique-promo.jpg",
+				"custom": {
+					"offers": {
+						"state": "active"
+					},
+					"threadImageOverride": "portrait",
+					"feedImageOverride": "portrait"
+				},
+				"landscapeURL": "",
+				"portrait": {
+					"aspectRatio": 0.74793,
+					"id": "kuocryoutwcyt9rifmei",
+					"type": "editorial",
+					"url": "https://c.static-nike.com/a/images/w_1536,c_limit/kuocryoutwcyt9rifmei/20190329-allapps-unique-promo.jpg"
+				},
+				"squarish": {
+					"id": "",
+					"url": ""
+				},
+				"title": "",
+				"preferredOrientation": {
+					"small": "portrait"
+				},
+				"squarishId": "",
+				"richTextLinks": [],
+				"subtitle": "",
+				"colorTheme": "dark",
+				"secondaryPortrait": {
+					"id": ""
+				},
+				"actions": [],
+				"landscape": {
+					"id": "",
+					"url": ""
+				}
+			}
+		},
+		"threadDeepLink": "mynike://x-callback-url/unlocks/v2?offer-id=dfbb93a7-9b4b-557d-be71-3e0998430f12&source=max"
+	}, {
+		"invite": {
+			"id": "916efaa6-ddf1-5d3f-95d0-c095e96a52c6",
+			"invitationId": "26bf4afc-e4bb-4d71-8f3e-fe698ccbd8fb",
+			"contentId": "352be5a8-99d1-4418-9a98-833148502494",
+			"startDate": "2019-03-29T18:23:34.380Z",
+			"endDate": "2019-04-26T18:23:34.000Z",
+			"items": [{
+				"item": {
+					"type": "PROMO",
+					"promoId": "483a014a-5270-464d-a7d9-a4dd11bf00bc",
+					"promoCode": "GENERIC2",
+					"promoType": "SINGLE_CODE",
+					"description": "AllApps-Test-Promo"
+				},
+				"startDate": "2019-03-29T18:23:34.380Z",
+				"endDate": "2019-04-26T18:23:34.000Z"
+			}],
+			"resourceType": "invite",
+			"links": {
+				"self": {
+					"ref": "/engage/invites/v1/916efaa6-ddf1-5d3f-95d0-c095e96a52c6"
+				}
+			}
+		},
+		"coverCard": {
+			"subType": "image",
+			"id": "653d9022-5f14-49e3-9a07-0c15a1fa6d77",
+			"type": "card",
+			"version": "1553883726542",
+			"properties": {
+				"portraitId": "kuocryoutwcyt9rifmei",
+				"squarishURL": "",
+				"product": [],
+				"landscapeId": "",
+				"altText": "",
+				"portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/kuocryoutwcyt9rifmei/20190329-allapps-test-promo.jpg",
+				"custom": {
+					"offers": {
+						"state": "active"
+					},
+					"threadImageOverride": "portrait",
+					"feedImageOverride": "portrait"
+				},
+				"landscapeURL": "",
+				"portrait": {
+					"aspectRatio": 0.74793,
+					"id": "kuocryoutwcyt9rifmei",
+					"type": "editorial",
+					"url": "https://c.static-nike.com/a/images/w_1536,c_limit/kuocryoutwcyt9rifmei/20190329-allapps-test-promo.jpg"
+				},
+				"squarish": {
+					"id": "",
+					"url": ""
+				},
+				"title": "",
+				"preferredOrientation": {
+					"small": "portrait"
+				},
+				"squarishId": "",
+				"richTextLinks": [],
+				"subtitle": "",
+				"colorTheme": "dark",
+				"secondaryPortrait": {
+					"id": ""
+				},
+				"actions": [],
+				"landscape": {
+					"id": "",
+					"url": ""
+				}
+			}
+		},
+		"threadDeepLink": "mynike://x-callback-url/unlocks/v2?offer-id=916efaa6-ddf1-5d3f-95d0-c095e96a52c6&source=max"
+	}, {
+		"invite": {
+			"id": "e77b5a4f-f0ad-529a-ada7-c2d863c92788",
+			"invitationId": "d71e4fe5-a672-4264-816f-c033d9633813",
+			"contentId": "e753760d-309c-4046-91e2-7b983617c513",
+			"startDate": "2019-03-28T20:36:22.021Z",
+			"endDate": "2019-04-29T20:48:43.000Z",
+			"items": [{
+				"item": {
+					"type": "PRODUCT",
+					"productId": "9f381910-c20f-5aff-b556-f5697ebc1e21"
+				},
+				"startDate": "2019-03-28T20:36:22.021Z",
+				"endDate": "2019-04-29T20:48:43.000Z"
+			}],
+			"resourceType": "invite",
+			"links": {
+				"self": {
+					"ref": "/engage/invites/v1/e77b5a4f-f0ad-529a-ada7-c2d863c92788"
+				}
+			}
+		},
+		"coverCard": {
+			"subType": "image",
+			"id": "c8d38492-7b72-437f-b7af-904241caf2aa",
+			"type": "card",
+			"version": "1554232311318",
+			"properties": {
+				"portraitId": "gzths8lcpkhxmckdjab3",
+				"squarishURL": "",
+				"product": [],
+				"landscapeId": "",
+				"altText": "",
+				"portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/gzths8lcpkhxmckdjab3/nike-sb-zoom-stefan-janoski-canvas.jpg",
+				"custom": {
+					"offers": {
+						"state": "active"
+					}
+				},
+				"landscapeURL": "",
+				"body": "Dynamic RFY Test",
+				"portrait": {
+					"aspectRatio": 0.74793,
+					"id": "gzths8lcpkhxmckdjab3",
+					"type": "editorial",
+					"url": "https://c.static-nike.com/a/images/w_1536,c_limit/gzths8lcpkhxmckdjab3/nike-sb-zoom-stefan-janoski-canvas.jpg"
+				},
+				"squarish": {
+					"id": "",
+					"url": ""
+				},
+				"title": "",
+				"squarishId": "",
+				"richTextLinks": [],
+				"subtitle": "",
+				"colorTheme": "dark",
+				"secondaryPortrait": {
+					"id": ""
+				},
+				"actions": [{
+					"actionType": "card_link",
+					"destination": {
+						"type": "URL",
+						"url": "https://www.nike.com/t/sb-zoom-stefan-janoski-canvas-mens-skate-shoe-knTPberd/615957-027"
+					},
+					"destinationType": "url",
+					"id": "c2142c71-3e35-4b47-940c-24ab6f9130d4",
+					"destinationId": "https://www.nike.com/t/sb-zoom-stefan-janoski-canvas-mens-skate-shoe-knTPberd/615957-027"
+				}],
+				"landscape": {
+					"id": "",
+					"url": ""
+				}
+			}
+		},
+		"threadDeepLink": "mynike://x-callback-url/unlocks/v2?offer-id=e77b5a4f-f0ad-529a-ada7-c2d863c92788&source=max"
+	}, {
+		"invite": {
+			"id": "61858df2-0d1b-5b4e-9156-f4a63209ae83",
+			"invitationId": "ba709b28-f5c9-4d0b-9262-4798ea440653",
+			"contentId": "8bbdad44-faf4-4321-ae67-1b73977e3a6e",
+			"startDate": "2019-03-28T20:25:49.594Z",
+			"endDate": "2019-04-30T20:25:49.000Z",
+			"items": [],
+			"resourceType": "invite",
+			"links": {
+				"self": {
+					"ref": "/engage/invites/v1/61858df2-0d1b-5b4e-9156-f4a63209ae83"
+				}
+			}
+		},
+		"coverCard": {
+			"subType": "image",
+			"id": "c2dd1608-6018-4b93-8270-2ac1cc37151c",
+			"type": "card",
+			"version": "1553804874386",
+			"properties": {
+				"portraitId": "pwu9eksvkfbi4bv5z3s5",
+				"squarishURL": "",
+				"product": [],
+				"landscapeId": "",
+				"altText": "",
+				"portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/pwu9eksvkfbi4bv5z3s5/20190328-mes-universal-test.jpg",
+				"landscapeURL": "",
+				"portrait": {
+					"aspectRatio": 0.74793,
+					"id": "pwu9eksvkfbi4bv5z3s5",
+					"type": "editorial",
+					"url": "https://c.static-nike.com/a/images/w_1536,c_limit/pwu9eksvkfbi4bv5z3s5/20190328-mes-universal-test.jpg"
+				},
+				"squarish": {
+					"id": "",
+					"url": ""
+				},
+				"title": "",
+				"squarishId": "",
+				"richTextLinks": [],
+				"subtitle": "",
+				"colorTheme": "dark",
+				"secondaryPortrait": {
+					"id": ""
+				},
+				"actions": [{
+					"actionType": "card_link",
+					"destination": {
+						"type": "URL",
+						"url": "https://www.nike.com/w/exclusive-shop-4lbty"
+					},
+					"destinationType": "url",
+					"id": "3a9df029-f7ac-4e63-a7dd-b92c7ad0bb61",
+					"destinationId": "https://www.nike.com/w/exclusive-shop-4lbty"
+				}],
+				"landscape": {
+					"id": "",
+					"url": ""
+				}
+			}
+		},
+		"threadDeepLink": "mynike://x-callback-url/editorial-thread?thread-id=8bbdad44-faf4-4321-ae67-1b73977e3a6e"
+	}, {
+		"invite": {
+			"id": "33f1050e-6288-56a3-a4e4-52cb49aa34f2",
+			"invitationId": "13874b40-7c1d-4533-8489-d914ca10806c",
+			"contentId": "1f19082b-b1f2-4493-9eb1-d83f4a1a0c36",
+			"startDate": "2019-03-28T16:05:42.785Z",
+			"endDate": "2019-04-29T16:03:22.000Z",
+			"items": [{
+				"item": {
+					"type": "PROMO",
+					"promoId": "5b289514-fe8e-43d1-a980-2a97f01ff811",
+					"promoCode": "Single1",
+					"promoType": "SINGLE_CODE",
+					"description": "ntc-promo-test"
+				},
+				"startDate": "2019-03-28T16:05:42.785Z",
+				"endDate": "2019-04-29T16:03:22.000Z"
+			}],
+			"resourceType": "invite",
+			"links": {
+				"self": {
+					"ref": "/engage/invites/v1/33f1050e-6288-56a3-a4e4-52cb49aa34f2"
+				}
+			}
+		},
+		"coverCard": {
+			"subType": "image",
+			"id": "ce12421b-532a-4fda-abe9-67b5383cca13",
+			"type": "card",
+			"version": "1553788866293",
+			"properties": {
+				"portraitId": "gmy2ju5tbqi3ytowgtmi",
+				"squarishURL": "",
+				"product": [],
+				"landscapeId": "",
+				"altText": "",
+				"portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/gmy2ju5tbqi3ytowgtmi/20190328-ntc-promo-test.jpg",
+				"custom": {
+					"offers": {
+						"state": "active"
+					}
+				},
+				"landscapeURL": "",
+				"body": "NTC promo test",
+				"portrait": {
+					"aspectRatio": 0.74658,
+					"id": "gmy2ju5tbqi3ytowgtmi",
+					"type": "editorial",
+					"url": "https://c.static-nike.com/a/images/w_1536,c_limit/gmy2ju5tbqi3ytowgtmi/20190328-ntc-promo-test.jpg"
+				},
+				"squarish": {
+					"id": "",
+					"url": ""
+				},
+				"title": "",
+				"squarishId": "",
+				"richTextLinks": [],
+				"subtitle": "",
+				"colorTheme": "light",
+				"secondaryPortrait": {
+					"id": ""
+				},
+				"actions": [],
+				"landscape": {
+					"id": "",
+					"url": ""
+				}
+			}
+		},
+		"threadDeepLink": "mynike://x-callback-url/unlocks/v2?offer-id=33f1050e-6288-56a3-a4e4-52cb49aa34f2&source=max"
+	}, {
+		"invite": {
+			"id": "58952866-9156-5a5b-aa5a-d42a96459032",
+			"invitationId": "7ebb0817-0a59-490f-a823-2b0cda6080bb",
+			"contentId": "b8dcd85d-dfd9-42fe-bf17-565135707b32",
+			"startDate": "2019-03-28T15:57:10.283Z",
+			"endDate": "2019-04-29T15:58:28.000Z",
+			"items": [{
+				"item": {
+					"type": "PROMO",
+					"promoId": "71bfe4d7-3a9a-4a18-9431-6e3ed068d01e",
+					"promoCode": "Single1",
+					"promoType": "SINGLE_CODE",
+					"description": "nrc-promo-test"
+				},
+				"startDate": "2019-03-28T15:57:10.283Z",
+				"endDate": "2019-04-29T15:58:28.000Z"
+			}],
+			"resourceType": "invite",
+			"links": {
+				"self": {
+					"ref": "/engage/invites/v1/58952866-9156-5a5b-aa5a-d42a96459032"
+				}
+			}
+		},
+		"coverCard": {
+			"subType": "image",
+			"id": "009d3228-1c75-4ff4-915e-1a9f1ab920c3",
+			"type": "card",
+			"version": "1553788529423",
+			"properties": {
+				"portraitId": "gmy2ju5tbqi3ytowgtmi",
+				"squarishURL": "",
+				"product": [],
+				"landscapeId": "",
+				"altText": "",
+				"portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/gmy2ju5tbqi3ytowgtmi/20190328-nrcpromo-test.jpg",
+				"custom": {
+					"offers": {
+						"state": "active"
+					}
+				},
+				"landscapeURL": "",
+				"portrait": {
+					"aspectRatio": 0.74658,
+					"id": "gmy2ju5tbqi3ytowgtmi",
+					"type": "editorial",
+					"url": "https://c.static-nike.com/a/images/w_1536,c_limit/gmy2ju5tbqi3ytowgtmi/20190328-nrcpromo-test.jpg"
+				},
+				"squarish": {
+					"id": "",
+					"url": ""
+				},
+				"title": "",
+				"squarishId": "",
+				"richTextLinks": [],
+				"subtitle": "",
+				"colorTheme": "dark",
+				"secondaryPortrait": {
+					"id": ""
+				},
+				"actions": [],
+				"landscape": {
+					"id": "",
+					"url": ""
+				}
+			}
+		},
+		"threadDeepLink": "mynike://x-callback-url/unlocks/v2?offer-id=58952866-9156-5a5b-aa5a-d42a96459032&source=max"
+	}, {
+		"invite": {
+			"id": "6982008b-47f4-5258-bfe2-84fb2f10070f",
+			"invitationId": "7fd321d6-2cf2-40ca-8419-525ceb7dcc19",
+			"contentId": "6112d5c1-9bd8-44d2-93b7-c4c30b4dae31",
+			"startDate": "2019-03-27T21:55:48.421Z",
+			"endDate": "2019-04-24T21:55:48.000Z",
+			"items": [{
+				"item": {
+					"type": "PRODUCT",
+					"productId": "e46b2e7c-219e-5628-bf3e-49b6f364d0b4"
+				},
+				"startDate": "2019-03-27T21:55:48.421Z",
+				"endDate": "2019-04-24T21:55:48.000Z"
+			}],
+			"resourceType": "invite",
+			"links": {
+				"self": {
+					"ref": "/engage/invites/v1/6982008b-47f4-5258-bfe2-84fb2f10070f"
+				}
+			}
+		},
+		"coverCard": {
+			"subType": "image",
+			"id": "53901e7c-6016-4a40-8e1b-0420bd845c28",
+			"type": "card",
+			"version": "1553723630575",
+			"properties": {
+				"portraitId": "te0zqwtej6zs2lqngjyc",
+				"squarishURL": "",
+				"product": [],
+				"landscapeId": "",
+				"altText": "",
+				"portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/te0zqwtej6zs2lqngjyc/20190327-test-rfy-na-2.jpg",
+				"custom": {
+					"offers": {
+						"state": "active"
+					},
+					"localizationStrings": [],
+					"threadImageOverride": "portrait",
+					"feedImageOverride": "portrait"
+				},
+				"landscapeURL": "",
+				"portrait": {
+					"aspectRatio": 0.74793,
+					"id": "te0zqwtej6zs2lqngjyc",
+					"type": "editorial",
+					"url": "https://c.static-nike.com/a/images/w_1536,c_limit/te0zqwtej6zs2lqngjyc/20190327-test-rfy-na-2.jpg"
+				},
+				"squarish": {
+					"id": "",
+					"url": ""
+				},
+				"title": "",
+				"preferredOrientation": {
+					"small": "portrait"
+				},
+				"squarishId": "",
+				"decorators": [],
+				"richTextLinks": [],
+				"subtitle": "",
+				"colorTheme": "light",
+				"secondaryPortrait": {
+					"id": ""
+				},
+				"actions": [],
+				"landscape": {
+					"id": "",
+					"url": ""
+				}
+			}
+		},
+		"threadDeepLink": "mynike://x-callback-url/unlocks/v2?offer-id=6982008b-47f4-5258-bfe2-84fb2f10070f&source=max"
+	}, {
+		"invite": {
+			"id": "c313f9ca-1155-517f-aabf-748ae22b6dd3",
+			"invitationId": "382660f5-ef5e-4c47-a3b9-060a035f9a8b",
+			"contentId": "9aec8db7-fb44-4bb4-9df1-51dd35fafc06",
+			"startDate": "2019-03-27T20:48:11.949Z",
+			"endDate": "2019-04-24T20:48:11.000Z",
+			"items": [{
+				"item": {
+					"type": "PRODUCT",
+					"productId": "a0566623-c260-570e-8e2c-3ca804bae6ef"
+				},
+				"startDate": "2019-03-27T20:48:11.949Z",
+				"endDate": "2019-04-24T20:48:11.000Z"
+			}],
+			"resourceType": "invite",
+			"links": {
+				"self": {
+					"ref": "/engage/invites/v1/c313f9ca-1155-517f-aabf-748ae22b6dd3"
+				}
+			}
+		},
+		"coverCard": {
+			"subType": "image",
+			"id": "207813ef-49dd-413b-b33e-5dd5977dd682",
+			"type": "card",
+			"version": "1553719637797",
+			"properties": {
+				"portraitId": "p150klcnjjrrssaowcof",
+				"squarishURL": "",
+				"product": [],
+				"landscapeId": "",
+				"altText": "",
+				"portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/p150klcnjjrrssaowcof/20190327-test-rfy-na.jpg",
+				"custom": {
+					"offers": {
+						"state": "redeemed"
+					},
+					"localizationStrings": [],
+					"threadImageOverride": "portrait",
+					"feedImageOverride": "portrait"
+				},
+				"landscapeURL": "",
+				"portrait": {
+					"aspectRatio": 0.74793,
+					"id": "p150klcnjjrrssaowcof",
+					"type": "editorial",
+					"url": "https://c.static-nike.com/a/images/w_1536,c_limit/p150klcnjjrrssaowcof/20190327-test-rfy-na.jpg"
+				},
+				"squarish": {
+					"id": "",
+					"url": ""
+				},
+				"title": "",
+				"preferredOrientation": {
+					"small": "portrait"
+				},
+				"squarishId": "",
+				"decorators": [],
+				"richTextLinks": [],
+				"subtitle": "",
+				"colorTheme": "dark",
+				"secondaryPortrait": {
+					"id": ""
+				},
+				"actions": [],
+				"landscape": {
+					"id": "",
+					"url": ""
+				}
+			}
+		},
+		"threadDeepLink": "mynike://x-callback-url/unlocks/v2?offer-id=c313f9ca-1155-517f-aabf-748ae22b6dd3&source=max"
+	}, {
+		"invite": {
+			"id": "67999d36-2312-5555-8dec-90d6120db91c",
+			"invitationId": "8237649a-e69c-41c5-b408-0ed00b9e53fe",
+			"contentId": "c6516acc-d1f3-492b-aed9-ba47bdcc6423",
+			"startDate": "2019-03-22T21:12:42.353Z",
+			"endDate": "2019-04-23T21:30:42.000Z",
+			"items": [{
+				"item": {
+					"type": "PRODUCT",
+					"productId": "1c9a5bd6-35f1-5ecd-8abb-5b365fa4e5f4"
+				},
+				"startDate": "2019-03-22T21:12:42.353Z",
+				"endDate": "2019-04-23T21:30:42.000Z"
+			}],
+			"resourceType": "invite",
+			"links": {
+				"self": {
+					"ref": "/engage/invites/v1/67999d36-2312-5555-8dec-90d6120db91c"
+				}
+			}
+		},
+		"coverCard": {
+			"subType": "image",
+			"id": "c4eefa2b-187c-4e93-a10f-fcc66162d893",
+			"type": "card",
+			"version": "1554480039607",
+			"properties": {
+				"portraitId": "smqqs7xbvjdi5le8wgik",
+				"squarishURL": "",
+				"product": [],
+				"landscapeId": "",
+				"altText": "",
+				"portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/smqqs7xbvjdi5le8wgik/20190322-ntc-na-test.jpg",
+				"custom": {
+					"offers": {
+						"state": "active"
+					},
+					"localizationStrings": [],
+					"threadImageOverride": "portrait",
+					"feedImageOverride": "portrait"
+				},
+				"landscapeURL": "",
+				"body": "NTC/Nike App Test",
+				"portrait": {
+					"aspectRatio": 0.74793,
+					"id": "smqqs7xbvjdi5le8wgik",
+					"type": "editorial",
+					"url": "https://c.static-nike.com/a/images/w_1536,c_limit/smqqs7xbvjdi5le8wgik/20190322-ntc-na-test.jpg"
+				},
+				"squarish": {
+					"id": "",
+					"url": ""
+				},
+				"title": "",
+				"preferredOrientation": {
+					"small": "portrait"
+				},
+				"squarishId": "",
+				"decorators": [],
+				"richTextLinks": [],
+				"subtitle": "",
+				"colorTheme": "light",
+				"secondaryPortrait": {
+					"id": ""
+				},
+				"actions": [],
+				"landscape": {
+					"id": "",
+					"url": ""
+				}
+			}
+		},
+		"threadDeepLink": "mynike://x-callback-url/unlocks/v2?offer-id=67999d36-2312-5555-8dec-90d6120db91c&source=max"
+	}, {
+		"invite": {
+			"id": "c223e401-7e36-5360-8e86-3529995af80b",
+			"invitationId": "a2c702a6-6ffb-42d5-8699-315e3512065d",
+			"contentId": "c0fafd25-2a5e-4cae-ae5d-5196228b3842",
+			"startDate": "2019-03-14T21:00:00.198Z",
+			"endDate": "2019-04-14T22:10:00.000Z",
+			"items": [{
+				"item": {
+					"type": "PRODUCT",
+					"productId": "d62dd3d1-0ded-5289-9a3e-293c83efdf79"
+				},
+				"startDate": "2019-03-14T21:00:00.198Z",
+				"endDate": "2019-04-14T22:10:00.000Z"
+			}],
+			"resourceType": "invite",
+			"links": {
+				"self": {
+					"ref": "/engage/invites/v1/c223e401-7e36-5360-8e86-3529995af80b"
+				}
+			}
+		},
+		"coverCard": {
+			"subType": "image",
+			"id": "34c8c006-145e-4589-86ea-3e5c75156443",
+			"type": "card",
+			"version": "1552609215344",
+			"properties": {
+				"portraitId": "te0zqwtej6zs2lqngjyc",
+				"squarishURL": "",
+				"product": [],
+				"landscapeId": "",
+				"altText": "",
+				"portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/te0zqwtej6zs2lqngjyc/2019-03-14-product-unlock.jpg",
+				"custom": {
+					"threadImageOverride": "portrait",
+					"feedImageOverride": "portrait"
+				},
+				"landscapeURL": "",
+				"portrait": {
+					"aspectRatio": 0.74793,
+					"id": "te0zqwtej6zs2lqngjyc",
+					"type": "editorial",
+					"url": "https://c.static-nike.com/a/images/w_1536,c_limit/te0zqwtej6zs2lqngjyc/2019-03-14-product-unlock.jpg"
+				},
+				"squarish": {
+					"id": "",
+					"url": ""
+				},
+				"title": "",
+				"preferredOrientation": {
+					"small": "portrait"
+				},
+				"squarishId": "",
+				"richTextLinks": [],
+				"subtitle": "",
+				"colorTheme": "dark",
+				"secondaryPortrait": {
+					"id": ""
+				},
+				"actions": [],
+				"landscape": {
+					"id": "",
+					"url": ""
+				}
+			}
+		},
+		"threadDeepLink": "mynike://x-callback-url/unlocks/v2?offer-id=c223e401-7e36-5360-8e86-3529995af80b&source=max"
+	}, {
+		"invite": {
+			"id": "53f98dcc-dbff-5150-9d89-42d942e68ec8",
+			"invitationId": "9566b2f8-c3ec-4df2-adb8-22e7fa97f4b9",
+			"contentId": "c852f114-7d84-4903-8454-c5bd7ce7cadb",
+			"startDate": "2019-03-13T17:03:18.861Z",
+			"endDate": "2019-04-29T17:07:39.000Z",
+			"items": [{
+				"item": {
+					"type": "PRODUCT",
+					"productId": "a0566623-c260-570e-8e2c-3ca804bae6ef"
+				},
+				"startDate": "2019-03-13T17:03:18.861Z",
+				"endDate": "2019-04-29T17:07:39.000Z"
+			}],
+			"resourceType": "invite",
+			"links": {
+				"self": {
+					"ref": "/engage/invites/v1/53f98dcc-dbff-5150-9d89-42d942e68ec8"
+				}
+			}
+		},
+		"coverCard": {
+			"subType": "image",
+			"id": "4f3e74cd-d704-4ceb-8226-1b202b872529",
+			"type": "card",
+			"version": "1552496651821",
+			"properties": {
+				"portraitId": "p150klcnjjrrssaowcof",
+				"squarishURL": "",
+				"product": [],
+				"landscapeId": "",
+				"altText": "",
+				"portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/p150klcnjjrrssaowcof/wallet-smoke-test.jpg",
+				"custom": {
+					"offers": {
+						"state": "active"
+					},
+					"localizationStrings": [],
+					"threadImageOverride": "portrait",
+					"feedImageOverride": "portrait"
+				},
+				"landscapeURL": "",
+				"body": "NA Wallet Smoke Test",
+				"portrait": {
+					"aspectRatio": 0.74793,
+					"id": "p150klcnjjrrssaowcof",
+					"type": "editorial",
+					"url": "https://c.static-nike.com/a/images/w_1536,c_limit/p150klcnjjrrssaowcof/wallet-smoke-test.jpg"
+				},
+				"squarish": {
+					"id": "",
+					"url": ""
+				},
+				"title": "",
+				"preferredOrientation": {
+					"small": "portrait"
+				},
+				"squarishId": "",
+				"decorators": [],
+				"richTextLinks": [],
+				"subtitle": "",
+				"colorTheme": "light",
+				"secondaryPortrait": {
+					"id": ""
+				},
+				"actions": [],
+				"landscape": {
+					"id": "",
+					"url": ""
+				}
+			}
+		},
+		"threadDeepLink": "mynike://x-callback-url/unlocks/v2?offer-id=53f98dcc-dbff-5150-9d89-42d942e68ec8&source=max"
+	}, {
+		"invite": {
+			"id": "cb567aa5-0586-5942-bc66-235676c002f0",
+			"invitationId": "afddd88d-34c1-4b6f-ba63-a1095fa05345",
+			"contentId": "75bcedeb-e841-44c3-bbc4-71f4f1390c04",
+			"startDate": "2019-02-26T21:20:59.423Z",
+			"endDate": "2019-04-29T20:49:28.000Z",
+			"items": [{
+				"item": {
+					"type": "PRODUCT",
+					"productId": "a0566623-c260-570e-8e2c-3ca804bae6ef"
+				},
+				"startDate": "2019-02-26T21:20:59.423Z",
+				"endDate": "2019-04-29T20:49:28.000Z"
+			}],
+			"resourceType": "invite",
+			"links": {
+				"self": {
+					"ref": "/engage/invites/v1/cb567aa5-0586-5942-bc66-235676c002f0"
+				}
+			}
+		},
+		"coverCard": {
+			"subType": "image",
+			"id": "9e086453-ecad-4bfb-94a2-8923267ebdf5",
+			"type": "card",
+			"version": "1551217325237",
+			"properties": {
+				"portraitId": "p150klcnjjrrssaowcof",
+				"squarishURL": "",
+				"product": [],
+				"landscapeId": "",
+				"altText": "",
+				"portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/p150klcnjjrrssaowcof/reserved-for-you.jpg",
+				"custom": {
+					"threadImageOverride": "portrait",
+					"feedImageOverride": "portrait"
+				},
+				"landscapeURL": "",
+				"body": "DISCO Test",
+				"portrait": {
+					"aspectRatio": 0.74793,
+					"id": "p150klcnjjrrssaowcof",
+					"type": "editorial",
+					"url": "https://c.static-nike.com/a/images/w_1536,c_limit/p150klcnjjrrssaowcof/reserved-for-you.jpg"
+				},
+				"squarish": {
+					"id": "",
+					"url": ""
+				},
+				"title": "",
+				"preferredOrientation": {
+					"small": "portrait"
+				},
+				"squarishId": "",
+				"richTextLinks": [],
+				"subtitle": "",
+				"colorTheme": "dark",
+				"secondaryPortrait": {
+					"id": ""
+				},
+				"landscape": {
+					"id": "",
+					"url": ""
+				}
+			}
+		},
+		"threadDeepLink": "mynike://x-callback-url/unlocks/v2?offer-id=cb567aa5-0586-5942-bc66-235676c002f0&source=max"
+	}, {
+		"invite": {
+			"id": "5cc0bbc2-eaf4-5714-b0e8-65d9898f3837",
+			"invitationId": "e7a01854-3871-409f-936b-230eeb8229cd",
+			"contentId": "b7a50eb4-64de-4c24-8ab7-47f0a3b8d716",
+			"startDate": "2019-02-25T23:12:38.184Z",
+			"endDate": "2019-04-29T22:08:12.000Z",
+			"items": [{
+				"item": {
+					"type": "PRODUCT",
+					"productId": "a0566623-c260-570e-8e2c-3ca804bae6ef"
+				},
+				"startDate": "2019-02-25T23:12:38.184Z",
+				"endDate": "2019-04-29T22:08:12.000Z"
+			}],
+			"resourceType": "invite",
+			"links": {
+				"self": {
+					"ref": "/engage/invites/v1/5cc0bbc2-eaf4-5714-b0e8-65d9898f3837"
+				}
+			}
+		},
+		"coverCard": {
+			"subType": "image",
+			"id": "e9807286-fc74-4503-bcfb-9a3051a7151b",
+			"type": "card",
+			"version": "1551136267691",
+			"properties": {
+				"portraitId": "gzths8lcpkhxmckdjab3",
+				"squarishURL": "",
+				"product": [],
+				"landscapeId": "",
+				"altText": "",
+				"portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/gzths8lcpkhxmckdjab3/20190225-automation-test.jpg",
+				"custom": {
+					"offers": {
+						"state": "active"
+					},
+					"localizationStrings": [],
+					"threadImageOverride": "portrait",
+					"feedImageOverride": "portrait"
+				},
+				"landscapeURL": "",
+				"body": "Automation Test",
+				"portrait": {
+					"aspectRatio": 0.74793,
+					"id": "gzths8lcpkhxmckdjab3",
+					"type": "editorial",
+					"url": "https://c.static-nike.com/a/images/w_1536,c_limit/gzths8lcpkhxmckdjab3/20190225-automation-test.jpg"
+				},
+				"squarish": {
+					"id": "",
+					"url": ""
+				},
+				"title": "",
+				"preferredOrientation": {
+					"small": "portrait"
+				},
+				"squarishId": "",
+				"decorators": [],
+				"richTextLinks": [],
+				"subtitle": "",
+				"colorTheme": "dark",
+				"secondaryPortrait": {
+					"id": ""
+				},
+				"landscape": {
+					"id": "",
+					"url": ""
+				}
+			}
+		},
+		"threadDeepLink": "mynike://x-callback-url/unlocks/v2?offer-id=5cc0bbc2-eaf4-5714-b0e8-65d9898f3837&source=max"
+	}, {
+		"invite": {
+			"id": "bab83d85-a437-57c5-a9b4-b1988115b356",
+			"invitationId": "5d0e3590-36e5-42eb-9572-36b7ef68ed89",
+			"contentId": "08d8acf1-66d7-4647-8bea-850e16208f39",
+			"startDate": "2019-02-14T22:13:04.232Z",
+			"endDate": "2019-03-21T21:13:04.000Z",
+			"items": [],
+			"resourceType": "invite",
+			"links": {
+				"self": {
+					"ref": "/engage/invites/v1/bab83d85-a437-57c5-a9b4-b1988115b356"
+				}
+			}
+		},
+		"coverCard": {
+			"subType": "image",
+			"id": "db1ba6ea-4812-4992-8faa-edbf799cac1f",
+			"type": "card",
+			"version": "1550182293525",
+			"properties": {
+				"portraitId": "gmy2ju5tbqi3ytowgtmi",
+				"squarishURL": "",
+				"product": [],
+				"landscapeId": "",
+				"altText": "",
+				"portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/gmy2ju5tbqi3ytowgtmi/20190214-content-invite-test4.jpg",
+				"custom": {
+					"threadImageOverride": "portrait",
+					"feedImageOverride": "portrait"
+				},
+				"landscapeURL": "",
+				"portrait": {
+					"aspectRatio": 0.74658,
+					"id": "gmy2ju5tbqi3ytowgtmi",
+					"type": "editorial",
+					"url": "https://c.static-nike.com/a/images/w_1536,c_limit/gmy2ju5tbqi3ytowgtmi/20190214-content-invite-test4.jpg"
+				},
+				"squarish": {
+					"id": "",
+					"url": ""
+				},
+				"title": "",
+				"preferredOrientation": {
+					"small": "portrait"
+				},
+				"squarishId": "",
+				"subtitle": "",
+				"colorTheme": "dark",
+				"secondaryPortrait": {
+					"id": ""
+				},
+				"landscape": {
+					"id": "",
+					"url": ""
+				}
+			}
+		},
+		"threadDeepLink": "mynike://x-callback-url/editorial-thread?thread-id=08d8acf1-66d7-4647-8bea-850e16208f39"
+	}, {
+		"invite": {
+			"id": "1fbead31-fa80-5505-bec4-e693e35d244d",
+			"invitationId": "6e721a28-a642-424e-b8fc-2c497089c662",
+			"contentId": "01319898-37b8-4493-b249-adfeba77ff24",
+			"startDate": "2019-02-13T21:35:38.239Z",
+			"endDate": "2019-03-20T20:35:38.000Z",
+			"items": [],
+			"resourceType": "invite",
+			"links": {
+				"self": {
+					"ref": "/engage/invites/v1/1fbead31-fa80-5505-bec4-e693e35d244d"
+				}
+			}
+		},
+		"coverCard": {
+			"subType": "image",
+			"id": "ac3b2b4a-1e78-4226-b268-406e5839af26",
+			"type": "card",
+			"version": "1550093882558",
+			"properties": {
+				"portraitId": "gmy2ju5tbqi3ytowgtmi",
+				"squarishURL": "",
+				"product": [],
+				"landscapeId": "",
+				"altText": "",
+				"portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/gmy2ju5tbqi3ytowgtmi/20190213-content-invite-test3.jpg",
+				"custom": {
+					"threadImageOverride": "portrait",
+					"feedImageOverride": "portrait"
+				},
+				"landscapeURL": "",
+				"portrait": {
+					"aspectRatio": 0.74658,
+					"id": "gmy2ju5tbqi3ytowgtmi",
+					"type": "editorial",
+					"url": "https://c.static-nike.com/a/images/w_1536,c_limit/gmy2ju5tbqi3ytowgtmi/20190213-content-invite-test3.jpg"
+				},
+				"squarish": {
+					"id": "",
+					"url": ""
+				},
+				"title": "",
+				"preferredOrientation": {
+					"small": "portrait"
+				},
+				"squarishId": "",
+				"subtitle": "",
+				"colorTheme": "dark",
+				"secondaryPortrait": {
+					"id": ""
+				},
+				"landscape": {
+					"id": "",
+					"url": ""
+				}
+			}
+		},
+		"threadDeepLink": "mynike://x-callback-url/editorial-thread?thread-id=01319898-37b8-4493-b249-adfeba77ff24"
+	}, {
+		"invite": {
+			"id": "de0ed109-80a5-5ddb-88cd-a358cba61ae7",
+			"invitationId": "39d8d67b-459d-4ef9-b6f9-f452d0d41629",
+			"contentId": "666b401d-47fb-4f0d-a9f5-bea32ef15207",
+			"startDate": "2019-02-12T21:00:22.051Z",
+			"endDate": "2019-03-19T17:49:22.000Z",
+			"items": [],
+			"resourceType": "invite",
+			"links": {
+				"self": {
+					"ref": "/engage/invites/v1/de0ed109-80a5-5ddb-88cd-a358cba61ae7"
+				}
+			}
+		},
+		"coverCard": {
+			"subType": "image",
+			"id": "da53f231-95ac-4ef3-844a-4a2eb852bc38",
+			"type": "card",
+			"version": "1549997770873",
+			"properties": {
+				"portraitId": "gmy2ju5tbqi3ytowgtmi",
+				"squarishURL": "",
+				"product": [],
+				"landscapeId": "",
+				"altText": "",
+				"portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/gmy2ju5tbqi3ytowgtmi/20190212-content-invite-test2.jpg",
+				"custom": {
+					"threadImageOverride": "portrait",
+					"feedImageOverride": "portrait"
+				},
+				"landscapeURL": "",
+				"portrait": {
+					"aspectRatio": 0.74658,
+					"id": "gmy2ju5tbqi3ytowgtmi",
+					"type": "editorial",
+					"url": "https://c.static-nike.com/a/images/w_1536,c_limit/gmy2ju5tbqi3ytowgtmi/20190212-content-invite-test2.jpg"
+				},
+				"squarish": {
+					"id": "",
+					"url": ""
+				},
+				"title": "",
+				"preferredOrientation": {
+					"small": "portrait"
+				},
+				"squarishId": "",
+				"richTextLinks": [],
+				"subtitle": "",
+				"colorTheme": "dark",
+				"secondaryPortrait": {
+					"id": ""
+				},
+				"landscape": {
+					"id": "",
+					"url": ""
+				}
+			}
+		},
+		"threadDeepLink": "mynike://x-callback-url/editorial-thread?thread-id=666b401d-47fb-4f0d-a9f5-bea32ef15207"
+	}, {
+		"invite": {
+			"id": "8bab1878-d58a-5e52-89a8-bcfdcc304d08",
+			"invitationId": "0f96c7e4-6c13-4971-9fd9-a153851fa29c",
+			"contentId": "23fcc888-ae0d-4d24-8ebc-f6e0fcf75cf8",
+			"startDate": "2019-02-11T19:06:21.172Z",
+			"endDate": "2019-03-18T18:06:21.000Z",
+			"items": [],
+			"resourceType": "invite",
+			"links": {
+				"self": {
+					"ref": "/engage/invites/v1/8bab1878-d58a-5e52-89a8-bcfdcc304d08"
+				}
+			}
+		},
+		"coverCard": {
+			"subType": "image",
+			"id": "7284c023-4d9a-465d-bf9d-5b40bc0fea44",
+			"type": "card",
+			"version": "1549996248978",
+			"properties": {
+				"portraitId": "s0up4mh6yaetym9xjeb5",
+				"squarishURL": "",
+				"product": [],
+				"landscapeId": "",
+				"altText": "",
+				"portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/s0up4mh6yaetym9xjeb5/20190211-content-invite-test.jpg",
+				"custom": {
+					"threadImageOverride": "portrait",
+					"feedImageOverride": "portrait"
+				},
+				"landscapeURL": "",
+				"portrait": {
+					"aspectRatio": 0.68204,
+					"id": "s0up4mh6yaetym9xjeb5",
+					"type": "editorial",
+					"url": "https://c.static-nike.com/a/images/w_1536,c_limit/s0up4mh6yaetym9xjeb5/20190211-content-invite-test.jpg"
+				},
+				"squarish": {
+					"id": "",
+					"url": ""
+				},
+				"title": "",
+				"preferredOrientation": {
+					"small": "portrait"
+				},
+				"squarishId": "",
+				"richTextLinks": [],
+				"subtitle": "",
+				"colorTheme": "dark",
+				"secondaryPortrait": {
+					"id": ""
+				},
+				"actions": [],
+				"landscape": {
+					"id": "",
+					"url": ""
+				}
+			}
+		},
+		"threadDeepLink": "mynike://x-callback-url/editorial-thread?thread-id=23fcc888-ae0d-4d24-8ebc-f6e0fcf75cf8"
+	}, {
+		"invite": {
+			"id": "UniversalUnlock:6679ed8d-c579-4460-851e-62b94acaa6d2",
+			"invitationId": "6679ed8d-c579-4460-851e-62b94acaa6d2",
+			"contentId": "11786c77-ae4a-40e5-bd2e-8bfcfa17732e",
+			"startDate": "2018-10-15T17:35:59.000Z",
+			"endDate": "2050-10-03T23:20:32.540Z",
+			"items": [],
+			"resourceType": "invite",
+			"links": {
+				"self": {
+					"ref": "/engage/invites/v1/UniversalUnlock:6679ed8d-c579-4460-851e-62b94acaa6d2"
+				}
+			}
+		},
+		"coverCard": {
+			"subType": "image",
+			"id": "b510c53c-a6a8-42b8-9967-6f86a4234c5e",
+			"type": "card",
+			"version": "1551287259197",
+			"properties": {
+				"portraitId": "xpo7qqm4nk2zxjg5orpv",
+				"squarishURL": "",
+				"product": [],
+				"landscapeId": "",
+				"altText": "",
+				"portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/xpo7qqm4nk2zxjg5orpv/your-nikeplus-unlocks.jpg",
+				"custom": {
+					"threadImageOverride": "portrait",
+					"feedImageOverride": "portrait"
+				},
+				"landscapeURL": "",
+				"body": "",
+				"portrait": {
+					"aspectRatio": 0.74793,
+					"id": "xpo7qqm4nk2zxjg5orpv",
+					"type": "editorial",
+					"url": "https://c.static-nike.com/a/images/w_1536,c_limit/xpo7qqm4nk2zxjg5orpv/your-nikeplus-unlocks.jpg"
+				},
+				"squarish": {
+					"id": "",
+					"url": ""
+				},
+				"title": "",
+				"preferredOrientation": {
+					"small": "portrait"
+				},
+				"squarishId": "",
+				"richTextLinks": [],
+				"subtitle": "",
+				"colorTheme": "light",
+				"secondaryPortrait": {
+					"id": "",
+					"url": ""
+				},
+				"actions": [{
+					"actionType": "card_link",
+					"destination": {
+						"type": "URL",
+						"url": "https://smart.link/5ba436140416f"
+					},
+					"destinationType": "url",
+					"id": "0da230bc-70a6-46e8-b48f-5c485ae50c75",
+					"destinationId": "https://smart.link/5ba436140416f"
+				}],
+				"landscape": {
+					"id": "",
+					"url": ""
+				}
+			}
+		},
+		"threadDeepLink": "mynike://x-callback-url/editorial-thread?thread-id=11786c77-ae4a-40e5-bd2e-8bfcfa17732e"
+	}, {
+		"invite": {
+			"id": "UniversalUnlock:b65db6a0-5f11-4c33-8761-f8857abb8571",
+			"invitationId": "b65db6a0-5f11-4c33-8761-f8857abb8571",
+			"contentId": "f13a4099-6bc3-432d-b50b-37558c3e872f",
+			"startDate": "2018-10-15T17:35:00.000Z",
+			"endDate": "2030-11-01T22:58:20.000Z",
+			"items": [],
+			"resourceType": "invite",
+			"links": {
+				"self": {
+					"ref": "/engage/invites/v1/UniversalUnlock:b65db6a0-5f11-4c33-8761-f8857abb8571"
+				}
+			}
+		},
+		"coverCard": {
+			"subType": "image",
+			"id": "2acd0929-af27-4db7-9a64-59664cbc4c5e",
+			"type": "card",
+			"version": "1540253883784",
+			"properties": {
+				"portraitId": "vf39g7oee4sg8v2jiwtz",
+				"squarishURL": "",
+				"product": [],
+				"landscapeId": "",
+				"altText": "",
+				"portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/vf39g7oee4sg8v2jiwtz/image.jpg",
+				"landscapeURL": "",
+				"portrait": {
+					"aspectRatio": 0.68182,
+					"id": "vf39g7oee4sg8v2jiwtz",
+					"type": "editorial",
+					"url": "https://c.static-nike.com/a/images/w_1536,c_limit/vf39g7oee4sg8v2jiwtz/image.jpg"
+				},
+				"squarish": {
+					"id": ""
+				},
+				"title": "",
+				"squarishId": "",
+				"richTextLinks": [],
+				"subtitle": "",
+				"colorTheme": "dark",
+				"secondaryPortrait": {
+					"id": "",
+					"url": ""
+				},
+				"actions": [],
+				"landscape": {
+					"id": ""
+				}
+			}
+		},
+		"threadDeepLink": "mynike://x-callback-url/editorial-thread?thread-id=f13a4099-6bc3-432d-b50b-37558c3e872f"
+	}]
+}
