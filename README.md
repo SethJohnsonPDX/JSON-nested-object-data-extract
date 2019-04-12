@@ -3,8 +3,8 @@ Script that extracts values from nested objects in a JSON file and prints to a C
 
 Includes:
 
-an example JSON file where data is nested within multiple objects <br>
-python extraction script that requires:
+1) an example JSON file where data is nested within multiple objects <br>
+2) python extraction script that requires:
 <ul>
     <li>JSON input file</li>
     <li>empty CSV output file</li>
