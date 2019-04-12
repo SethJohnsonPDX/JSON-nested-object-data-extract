@@ -10,5 +10,5 @@ python extraction script that requires:
     <li>empty CSV output file</li>
     <li>variable name(s) of the values you would like to extract</li>
 </ul>
-<br><br>
+<br>
 Nested JSON object looping logic credit to: https://hackersandslackers.com/extract-data-from-complex-json-python/
